@@ -1,0 +1,21 @@
+1.what is TestNG?
+
+-testing framework for functional, unit, integration, system as well as End to End testing.
+-for JAVA only
+-developed by Cedric beust
+-inspired by Junit and Nunit
+-NG stands for Next Generation i.e., TestNG= Testing for Next Generation.
+
+2.Advantages:
+
+-more no of annotaions compared to Junit
+-parallel testing
+-data driven testing
+-reports can be generated
+-Test Suite (collection of test cases)
+
+3.Installation:
+-create a simple maven project
+-add testNG dependency into POM.XML
+-create TestNG class
+-to run TestNG file into IDE need to add plugins
